@@ -6,3 +6,7 @@ This app is deployed on netlify at https://gpt3-project-konstantin.netlify.app/
 Finished version photos:
 
 ![Finished version image](https://github.com/KChimev/GPT-3-React/blob/main/finished/ai1.png?raw=true)
+
+
+Mobile:
+![Finished version image](https://github.com/KChimev/GPT-3-React/blob/main/finished/ai5.png?raw=true)
